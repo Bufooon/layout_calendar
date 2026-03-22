@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Calendar_initial_state.png",
-        "test": "..\\bitmaps_test\\20260215-180437\\Calendar_initial_state.png",
+        "test": "..\\bitmaps_test\\20260322-190329\\Calendar_initial_state.png",
         "selector": "body",
         "fileName": "Calendar_initial_state.png",
         "label": "Calendar initial state",
@@ -20,18 +20,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 12.667973836263021,
-          "misMatchPercentage": "12.67",
-          "analysisTime": 42
+          "rawMisMatchPercentage": 0.6884256998697917,
+          "misMatchPercentage": "0.69",
+          "analysisTime": 67
         },
-        "diffImage": "..\\bitmaps_test\\20260215-180437\\failed_diff_Calendar_initial_state.png"
+        "diffImage": "..\\bitmaps_test\\20260322-190329\\failed_diff_Calendar_initial_state.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Calendar_day_with_hover_effect.png",
-        "test": "..\\bitmaps_test\\20260215-180437\\Calendar_day_with_hover_effect.png",
+        "test": "..\\bitmaps_test\\20260322-190329\\Calendar_day_with_hover_effect.png",
         "selector": "body",
         "fileName": "Calendar_day_with_hover_effect.png",
         "label": "Calendar day with hover effect",
@@ -47,18 +47,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 13.879267374674479,
-          "misMatchPercentage": "13.88",
-          "analysisTime": 41
+          "rawMisMatchPercentage": 1.9886016845703125,
+          "misMatchPercentage": "1.99",
+          "analysisTime": 52
         },
-        "diffImage": "..\\bitmaps_test\\20260215-180437\\failed_diff_Calendar_day_with_hover_effect.png"
+        "diffImage": "..\\bitmaps_test\\20260322-190329\\failed_diff_Calendar_day_with_hover_effect.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Calendar_starting_from_Wednesday.png",
-        "test": "..\\bitmaps_test\\20260215-180437\\Calendar_starting_from_Wednesday.png",
+        "test": "..\\bitmaps_test\\20260322-190329\\Calendar_starting_from_Wednesday.png",
         "selector": "body",
         "fileName": "Calendar_starting_from_Wednesday.png",
         "label": "Calendar starting from Wednesday",
@@ -74,18 +74,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 6.050999959309896,
-          "misMatchPercentage": "6.05",
-          "analysisTime": 35
+          "rawMisMatchPercentage": 0.6884256998697917,
+          "misMatchPercentage": "0.69",
+          "analysisTime": 65
         },
-        "diffImage": "..\\bitmaps_test\\20260215-180437\\failed_diff_Calendar_starting_from_Wednesday.png"
+        "diffImage": "..\\bitmaps_test\\20260322-190329\\failed_diff_Calendar_starting_from_Wednesday.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Calendar_with_length_of_29_days.png",
-        "test": "..\\bitmaps_test\\20260215-180437\\Calendar_with_length_of_29_days.png",
+        "test": "..\\bitmaps_test\\20260322-190329\\Calendar_with_length_of_29_days.png",
         "selector": "body",
         "fileName": "Calendar_with_length_of_29_days.png",
         "label": "Calendar with length of 29 days",
@@ -101,11 +101,11 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 16.167068481445312,
-          "misMatchPercentage": "16.17",
-          "analysisTime": 39
+          "rawMisMatchPercentage": 0.6306966145833333,
+          "misMatchPercentage": "0.63",
+          "analysisTime": 50
         },
-        "diffImage": "..\\bitmaps_test\\20260215-180437\\failed_diff_Calendar_with_length_of_29_days.png"
+        "diffImage": "..\\bitmaps_test\\20260322-190329\\failed_diff_Calendar_with_length_of_29_days.png"
       },
       "status": "fail"
     }
